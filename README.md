@@ -1,4 +1,4 @@
-# PsHub
+# PsHub#
 
 Gaming venue management platform built to manage station sessions, cashier operations, billing, F&B sales, expenses, reporting, and management auditing.
 
