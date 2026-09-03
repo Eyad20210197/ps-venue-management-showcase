@@ -13,8 +13,8 @@ The system handles the full operational cycle from starting a station session to
 
 ## Core Features
 
-- 5 station types: VIP, Regular, Workstation, Netflix, and Match
-- 3 configurable pricing modes
+- various station types: VIP, Regular, Workstation, Netflix, and Match
+- configurable pricing modes
 - Timed gaming sessions with automatic billing
 - Pricing mode switching during active sessions
 - Cashier shift management
@@ -41,10 +41,10 @@ The system handles the full operational cycle from starting a station session to
 ### Backend
 - Node.js
 - TypeScript
-- Express.js
+- Fastify.js
 - REST APIs
 - PostgreSQL
-- Prisma
+- drizzle
 - JWT Authentication
 
 ### Frontend
@@ -114,7 +114,7 @@ Managers can review:
 
 ## Architecture
 
-ArenaX follows a layered application architecture:
+PsHub follows a layered application architecture:
 
 Client  
 ↓  
