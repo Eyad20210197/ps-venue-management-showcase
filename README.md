@@ -104,13 +104,13 @@ Managers can review:
 
 ![Cashier Dashboard](screenshots/cashier-dashboard.png)
 
-### Station Management
+### Invoice Preview
 
-![Station Board](screenshots/station-board.png)
+![Invoice Preview](screenshots/PSHub-Invoice-INV-VIP-3863.png)
 
 ### Manager Dashboard
 
-![Manager Dashboard](screenshots/manager-dashboard.png)
+![Manager Dashboard](screenshots/manager-board.png)
 
 ## Architecture
 
